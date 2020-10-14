@@ -1,0 +1,8 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gayathri', sans-serif !important;
+    font-size: 20px;
+}
